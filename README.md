@@ -1,6 +1,15 @@
 # Knowledge Base
 
-This repository contains a comprehensive knowledge base on Physics, Computer Science, and various other subjects. Created with Obsidian, a powerful knowledge management tool, and exported using the Perlite plugin, this project aims to provide an easily accessible and navigable resource for learning and reference.
+This repository contains a comprehensive knowledge (in German) base on
+- Biology
+- Chemistry
+- Electrical engineering
+- Computer Science
+- Math
+- Physics
+- Economy
+
+Ceated with Obsidian, a powerful knowledge management tool, and exported using the Perlite plugin, this project aims to provide an easily accessible and navigable resource for learning and reference. The static site is hosted on Netlify for seamless access and hosting.
 
 ## Features
 
