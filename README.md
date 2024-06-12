@@ -9,7 +9,7 @@ This repository contains a comprehensive knowledge (in German) base on
 - Physics
 - Economy
 
-Ceated with [https://obsidian.md/](Obsidian), a powerful knowledge management tool, and exported using the [https://perlite.secure77.de/](Perlite) plugin, this project aims to provide an easily accessible and navigable resource for learning and reference. The static site is hosted on [https://www.netlify.com/](Netlify) for seamless access and hosting.
+Ceated with [Obsidian](https://obsidian.md/), a powerful knowledge management tool, and exported using the [Perlite](https://perlite.secure77.de/) plugin, this project aims to provide an easily accessible and navigable resource for learning and reference. The static site is hosted on [Netlify](https://www.netlify.com/) for seamless access and hosting.
 
 ## Features
 
