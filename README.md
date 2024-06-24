@@ -52,4 +52,4 @@ Email: info@bibliothek-von-alexandria.com (currently not available)
 Thank you for visiting the Library of Alexandria and being a part of our lifelong learning community!
 
 
-![[© 2024 Library of Alexandria. All rights reserved.]]
+© 2024 Library of Alexandria. All rights reserved.
