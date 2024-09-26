@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "03147bd8dd9db9b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d5edf978a4a9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113c909ab3cabafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Informatik/_main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60534f6ecf8eb8f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "950f172d941dbd1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66358c690a2ff2f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b9b27fbb3964db3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7218f060ef4ae21c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5124969482422
+  },
+  "right": {
+    "id": "0ee67e9db95a136d",
+    "type": "split",
+    "children": [
+      {
+        "id": "56522c0f6430b538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9813eda1e5f713",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Informatik/_main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2135176a3c6c4b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Informatik/_main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ed758c5e3fe850f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "027ca4e489e9388b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Informatik/_main.md"
+              }
+            }
+          },
+          {
+            "id": "e716d41d8ebb67ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 554.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "113c909ab3cabafa",
+  "lastOpenFiles": [
+    "Home.md",
+    "_Informatik/_main.md",
+    "_Informatik/CCNA",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/14_OSI-Schichtenmodell.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/22_Twisted-Pair-Kabel.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/25_RJ-45_Stecker.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/10_Internet-Anschluss.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/13_DoD-Schichtenmodell.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/12_Schichtenmodelle.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/3_Organisationen.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/4_Netzwerk_Infrastruktur.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/5_LAN.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/6_WLAN.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/2_Grundbegriffe.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/11_AS.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/9_Internet.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/7_WPAN.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/1_Grundlagen.md",
+    "IMG/IMG_Informatik/ftp_cable.png",
+    "IMG/IMG_Informatik/udp_cable.png",
+    "Time Tracker.md",
+    "IMG/IMG_Informatik/stp_cable.png",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/21_Netzwerk-Kabel.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/20_Leitungen_und_Kabel.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/19_Strukturierte_Verkabelung.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/18_Lokale_Vernetzung.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/16_RFC.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/8_WAN.md",
+    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/17_Netzwerk_Topologie.md",
+    "IMG/IMG_Informatik/Geflecht-Topologie.png",
+    "Pasted image 20240715144507.png",
+    "IMG/IMG_Informatik/Vollvermaschte-Topologie.png",
+    "IMG/IMG_Informatik/Mesh-Topologie.png",
+    "IMG/IMG_Informatik/Baum-Topologie.png",
+    "IMG/IMG_Informatik/Stern-Topologie.png",
+    "IMG/IMG_Informatik/Ring-Topologie.png",
+    "IMG/IMG_Informatik",
+    "4_Anwendungen_und_Dienste",
+    "Anwendungen_und_Dienste",
+    "_IT/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/Untitled",
+    "_Informatik/Netzwerktechnik/7_RaspberryPi_Projekte",
+    "_Informatik/Netzwerktechnik/6_Netzwerk_Hacking",
+    "_Informatik/Netzwerktechnik/5_Netzwerksicherheit",
+    "_Informatik/Netzwerktechnik/4_Anwendungen_und_Dienste",
+    "_Informatik/Netzwerktechnik/3_TCP_IP_und_Protokolle"
+  ]
+}
