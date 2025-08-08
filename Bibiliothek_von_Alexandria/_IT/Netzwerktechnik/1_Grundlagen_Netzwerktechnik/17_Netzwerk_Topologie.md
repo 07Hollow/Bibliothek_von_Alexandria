@@ -17,7 +17,7 @@ Die im Folgenden beschriebenen Netzwerk-Topologien beziehen sich auf paketvermit
 
 # Point-to-Point (PtP) / Punkt-zu-Punkt
 
-![[../../../IMG/IMG_Informatik/point-to-point.png]]
+![[../../../IMG/IMG_IT/point-to-point.png]]
 
 Bei einer Punkt-zu-Punkt-Topologie besteht nur zwischen zwei [Hosts] bzw. Geräten eine einfache und direkte physikalische Verbindung. Diese Geräte können diese Verbindung für ihre gegenseitige Kommunikation nutzen. In einer[ Adhoc-Umgebung] finden die Hosts meist spontan zusammen und kooperieren nicht zwangsläufig dauerhaft miteinander. In einer Netzwerk-Umgebung besteht die physikalische Verbindung und die darauf aufsetzende logische Verbindung in der Regel dauerhaft. Die Punkt-zu-Punkt-Topologie darf nicht mit der [Peer-to-Peer-Architektur] (P2P) verwechselt werden.
 
@@ -33,7 +33,7 @@ PPP ist ein Full-Duplex-Protokoll, das mit einer Vielzahl unterschiedlicher phys
 
 # Point-to-Multipoint (PtMP) / Punkt-zu-Mehrpunkt
 
-![[../../../IMG/IMG_Informatik/point-to-multipoint.png]]
+![[../../../IMG/IMG_IT/point-to-multipoint.png]]
 
 Bei einer Punkt-zu-Mehrpunkt-Topologie besteht das Netzwerk aus mehreren Hosts, die sich eine Leitung zum Zentralsystem teilen. Die Kommunikation zwischen den Hosts erfolgt in alle Richtungen, in denen eine Verbindung besteht. Das bedeutet, dass jeder Teilnehmer bis zum Verzweigungspunkt sein eigenes Übertragungsmedium haben kann.
 
@@ -45,7 +45,7 @@ Dabei gibt es eine zentrale Basis und mehrere Stationen. Jede Verbindung von der
 
 # Line / Chain / Linien-Topologie (Linientechnik)
 
-![[../../../IMG/IMG_Informatik/linien-topologie.png]]
+![[../../../IMG/IMG_IT/linien-topologie.png]]
 
 In einer Linien-Topologie sind mehrere Hosts nacheinander in Reihe geschaltet, wobei die beiden Enden der Linie jeweils mit einem Gerät abgeschlossen sind. Entfernt man einen beliebigen Host, führt dies zu einer Unterbrechung der Linie und somit zum Ausfall des Netzwerks. Die entstandene Lücke muss überbrückt oder an der Stelle neu verkabelt werden, was eine Neuordnung der Verkabelung zwischen allen Geräten in Abhängigkeit vom Übertragungsmedium zur Folge hat.
 
@@ -57,7 +57,7 @@ Es ist wichtig zu beachten, dass die Linien-Topologie oft mit der Bus-Topologie 
 
 # Bus / Bus-Topologie
 
-![[../../../IMG/IMG_Informatik/Bus-topologie.png]]
+![[../../../IMG/IMG_IT/Bus-topologie.png]]
 
 Bei einer Bus-Topologie sind alle Geräte direkt mit demselben Übertragungsmedium, dem Bussystem, verbunden. Dies bedeutet, dass alle Hosts Zugriff auf die Signale haben, die über den Bus übertragen werden.
 
@@ -67,7 +67,7 @@ Um Störungen und Probleme auf der Leitung zu vermeiden und die physikalischen E
 
 # Ring / Ring-Topologie
 
-![[../../../IMG/IMG_Informatik/Ring-Topologie.png]]
+![[../../../IMG/IMG_IT/Ring-Topologie.png]]
 
 In einer Ring-Topologie sind alle Geräte über eine geschlossene Kabelstrecke ringförmig miteinander verbunden. An jedem Host kommt ein Kabel an und geht wieder ab.
 
@@ -83,7 +83,7 @@ Ein Ring-Manager kann sinnvoll sein, da er bei einer Unterbrechung des Rings den
 
 # Star / Stern-Topologie
 
-![[../../../IMG/IMG_Informatik/Stern-Topologie.png]]
+![[../../../IMG/IMG_IT/Stern-Topologie.png]]
 
 In der Stern-Topologie ist eine zentrale Netzwerk-Komponente vorhanden, die eine physikalische Verbindung zu allen Hosts unterhält. Jeder Host ist über eine separate Leitung mit dieser zentralen Netzwerk-Komponente verbunden, die typischerweise ein Hub oder Switch ist. Diese Komponente übernimmt die Verteilung der Datenpakete, indem sie die Pakete empfängt und an ihre Ziele weiterleitet.
 
@@ -99,7 +99,7 @@ Obwohl die Datenbelastung im Zentrum hoch sein kann, beeinflusst das Hinzufügen
 
 # Tree / Baum-Topologie
 
-![[../../../IMG/IMG_Informatik/Baum-Topologie.png]]
+![[../../../IMG/IMG_IT/Baum-Topologie.png]]
 
 Die Baum-Topologie stellt eine erweiterte Form der Stern-Topologie dar und wird häufig in größeren lokalen Netzwerken eingesetzt, insbesondere wenn mehrere Topologien miteinander kombiniert werden. Typischerweise bildet ein übergeordnetes Netzwerk-Element wie ein Router den Ausgangspunkt, von dem aus sich ein Stamm mit vielen Verzweigungen bildet. Diese Struktur ähnelt einem Baum, daher der Name Baum-Topologie.
 
@@ -109,7 +109,7 @@ In der Baum-Topologie gibt es eine klare Hierarchie, wobei das übergeordnete Ne
 
 # Mesh / Maschen-Topologie
 
-![[../../../IMG/IMG_Informatik/Mesh-Topologie.png]]
+![[../../../IMG/IMG_IT/Mesh-Topologie.png]]
 
 Bei der Maschen-Topologie, auch vermaschte Topologie genannt, handelt es sich um ein dezentrales Netzwerk, bei dem alle Netzwerkknoten willkürlich miteinander verbunden sind. Es gibt keine festen hierarchischen Strukturen, und nicht jeder Host ist direkt mit jedem anderen Host verbunden. Der Vorteil dieser Topologie liegt in der erhöhten Robustheit und Zuverlässigkeit des Netzwerks:
 
@@ -125,7 +125,7 @@ Ein Beispiel für eine Maschen-Topologie auf einer größeren Skala ist das Inte
 
 # Fully Connected /  Vollvermaschte Topologie
 
-![[../../../IMG/IMG_Informatik/Vollvermaschte-Topologie.png]]
+![[../../../IMG/IMG_IT/Vollvermaschte-Topologie.png]]
 
 Fully Connected oder vollständig verbunden bezeichnet eine Netzwerk-Topologie, in der jeder Host direkt mit jedem anderen Host über eine eigene physikalische Verbindung verbunden ist. Das bedeutet, dass jeder Host eine [Schnittstelle] für jede mögliche Verbindung benötigt, und es muss für jede dieser Verbindungen ein eigenes Übertragungsmedium vorhanden sein.
 
@@ -137,7 +137,7 @@ Die Vollvermaschte Topologie ist besonders in kleinen Netzwerken oder in spezial
 
 # Fabric / Geflecht-Topologie (Gewebe)
 
-![[../../../IMG/IMG_Informatik/Geflecht-Topologie.png]]
+![[../../../IMG/IMG_IT/Geflecht-Topologie.png]]
 
 Die Geflecht-Topologie ist eine Netzwerkstruktur, bei der alle Hosts direkt miteinander verbunden sind, ohne dass es einen zentralen Knoten gibt. Diese Topologie ist besonders für hochverfügbare verteilte Systeme geeignet und stammt ursprünglich aus der Fibre-Channel-Welt, wo sie in Speichernetzen lange Zeit eingesetzt wurde.
 

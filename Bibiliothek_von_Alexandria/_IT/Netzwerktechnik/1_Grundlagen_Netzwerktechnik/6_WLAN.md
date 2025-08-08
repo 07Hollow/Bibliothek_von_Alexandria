@@ -10,7 +10,7 @@ WLAN bzw. Wi-Fi ist heute unverzichtbar und verbindet Smartphones, Tablets und N
 
 # Basisstation: Wireless Access Point (WAP)
 
-![[../../../IMG/IMG_Informatik/WAP.png]]
+![[../../../IMG/IMG_IT/WAP.png]]
 
 Statt Daten über ein Kabel zu übertragen, erfolgt die Kommunikation über die Luft mittels Funktechnik. Diese drahtlose Übertragung steigert die Mobilität und den Komfort bei der Nutzung von netzwerkfähigen Geräten. Die Reichweite ist jedoch typischerweise auf wenige Räume um die Basisstation begrenzt.
 

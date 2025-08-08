@@ -9,7 +9,7 @@ Die Bibliothek von Alexandria ist ein Projekt, das sich der Zusammenstellung und
 - [[./biologie/_main|Biologie]]
 - [[./chemie/_main|Chemie]]
 - [[./elektrotechnik/_main|Elektrotechnik]]
-- [[./Informatik/_main|Informatik]]
+- [[_IT/_main|Informatik]]
 - [[./mathe/_main|Mathematik]]
 - [[./physik/_main|Physik]]
 - [[./wirtschaft/_main|Wirtschaft]]

@@ -12,7 +12,7 @@ Zu den wichtigsten Internet-Anwendungen gehören Messaging, E-Mail, das World Wi
 
 # Architektur des Internets
 
-![[../../../IMG/IMG_Informatik/Internet_Global.png]]
+![[../../../IMG/IMG_IT/Internet_Global.png]]
 
 Das Internet unterliegt keiner bestimmten Struktur und es gibt keine zentrale Instanz. Stattdessen sind alle Netze und Computer irgendwie miteinander verbunden. Das dezentrale und paketorientierte Internet Protocol (IP) ist für die Vermittlung und Adressierung der Datenpakete zuständig. Das Transmission Control Protocol (TCP) kümmert sich um die Aufteilung und Zuordnung der Informationen und Daten in kleine Datenpakete, die über IP an den Empfänger verschickt werden. Zusammen bilden TCP und IP die Protokollfamilie TCP/IP, zu der noch weitere Protokolle gehören.
 
@@ -31,13 +31,13 @@ Die Internet-Adresse ist ein Überbegriff für die verschiedenen Adressen, mit d
 
 # Geschichte des Internets (Zeitstrahl)
 
-![[../../../IMG/IMG_Informatik/Geschichte_des_Internets_1.png]]
+![[../../../IMG/IMG_IT/Geschichte_des_Internets_1.png]]
 
-![[../../../IMG/IMG_Informatik/Geschichte_des_Internets_2.png]]
+![[../../../IMG/IMG_IT/Geschichte_des_Internets_2.png]]
 
-![[../../../IMG/IMG_Informatik/Geschichte_des_Internets_3.png]]
+![[../../../IMG/IMG_IT/Geschichte_des_Internets_3.png]]
 
-![[../../../IMG/IMG_Informatik/Geschichte_des_Internets_4.png]]
+![[../../../IMG/IMG_IT/Geschichte_des_Internets_4.png]]
 
 _([Geschichte des Internets](https://www.fonial.de/wissen/begriff/geschichte-des-internets/))_
 

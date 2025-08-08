@@ -1,4 +1,4 @@
-![[../../../IMG/IMG_Informatik/WAN.png]]
+![[../../../IMG/IMG_IT/WAN.png]]
 
 Ein Wide Area Network (WAN) ist ein Netzwerk, das über einen großen geografischen Bereich verteilt ist. Im Gegensatz zu lokalen Netzwerken (LANs), die eher begrenzte Gebiete abdecken und häufig innerhalb einer Organisation betrieben werden, wird ein WAN typischerweise von einem Provider oder Telekommunikationsanbieter verwaltet.
 

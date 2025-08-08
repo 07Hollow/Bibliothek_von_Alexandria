@@ -57,8 +57,8 @@ Die Abkürzung **LAN** steht für **L**ocal **A**rea **N**etwork. Damit wird wir
 WAN steht für **W**ide **A**rea **N**etwork. Gemeint ist damit ein Zusammenschluss kleinere Netzwerke zu einem großen Netzwerk. 
 Das LAN ist über einen Router mit dem WAN verbunden. So gelangt man in der Regel ins Internet.
 
-- [[5_LAN.md|LAN]]
-- [[8_WAN.md|WAN]]
+- [[5_LAN|LAN]]
+- [[8_WAN|WAN]]
 
 ---
 
@@ -95,21 +95,21 @@ Zugangspunkte zu einem Netzwerk, z. B. WLAN-Access-Points, werden häufig auch a
 Ein Client ist ein Endgerät oder auch eine Software-Komponente, die von einer zentralen Stelle Dienste oder Daten anfordert oder über einen zentralen Zugang am Netzwerk teilnimmt. Der Client ist als Teil der Client-Server-Architektur in größere Zahl in allen Netzwerken zu finden.  
 Typische Hardware-Clients sind PCs, Smartphones, Tablets und Notebooks. Auf diesen laufen dann mehrere Software-Clients für unterschiedliche Dienste. WWW, E-Mail, Messaging, usw.
 
-- [[32_Client-Server-Architektur.md|Client-Server-Architektur]]
+- [[32_Client-Server-Architektur|Client-Server-Architektur]]
 
 ---
 
 # Server
 Einfach gesagt ist ein Server ein Computer, welcher Speicher, Daten, Dienste und Rechenleistung in einem Netzwerk zur Verfügung stellt und Zugriffsrechte verwaltet. Über einen Software-Client können Nutzer Dienste und Anwendungen über das Netzwerk anfordern. 
 
-- [[50_Server.md|Server]]
+- [[50_Server|Server]]
 
 ---
 
 # Router 
 Ein Router ist ein Node, mit Routing Funktion. Sprich er leitet (routet) die Pakete, die nicht an ihn selbst gerichtet sind, an die entsprechende Stelle weiter. In einem dezentralen Netzwerk entscheidet der Router bei jedem eingehendem Paket erneut, welchen Weg das Paket geht. 
 
-[[46_Router.md|Router]]
+[[46_Router|Router]]
 
 ---
 
@@ -118,7 +118,7 @@ Die Art und Weise, wie Datenpakete in einem dezentralen Netzwerk oder IP-Netzwer
 In der Regel ist das maßgebliche Kriterium die Zieladresse und damit der kürzeste bzw. schnellste Weg zum Ziel. In gewisser Weise suchen sich die Datenpakete ihren Weg zum Empfänger selber. Beim Routing geht darum den optimalen Weg vom Sender zum Empfänger zu finden.  
 Das maßgebliche Hilfsmittel beim Routing ist die Routing-Tabelle, in der mögliche Routen festgelegt sind.
 
-[[47_Routing.md|Routing]]
+[[47_Routing|Routing]]
 [[|IP-Routing]]
 
 ---
@@ -128,7 +128,7 @@ Netzwerk Buch
 # Gateway
 Ein Gateway ist eine Hardware oder Software oder eine Kombination daraus, die eine Schnittstelle zwischen zwei inkompatiblen Netzwerken darstellt. Das Gateway kümmert sich darum, dass die Form und Adressierung der Daten in das jeweilige andere Format oder Protokoll des anderen Netzes konvertiert werden.
 
-[[49_Gateway.md|Gateway]]
+[[49_Gateway|Gateway]]
 
 ---
 

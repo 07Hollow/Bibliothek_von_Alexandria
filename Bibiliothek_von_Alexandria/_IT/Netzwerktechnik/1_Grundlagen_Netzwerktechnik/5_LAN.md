@@ -4,7 +4,7 @@ Netzwerke werden oft nach ihrer räumlichen und geografischen Ausdehnung klassif
 
 # Einfaches Lokales Netzwerk
 
-![[../../../IMG/IMG_Informatik/einfaches_Lokales_netzwerk.png]]
+![[../../../IMG/IMG_IT/einfaches_Lokales_netzwerk.png]]
 
 Ein einfaches Netzwerk besteht aus mindestens zwei Computersystemen, die über eine Direktverbindung (Crossoverkabel) oder ein Kopplungselement (Hub oder Switch) verbunden sind. Sobald mehr als zwei Computersysteme beteiligt sind, ist ein zentrales Kopplungselement erforderlich. Ein solches Kopplungselement, wie etwa ein Switch, stellt die physikalische und logische Verbindung zwischen den Computersystemen sicher.
 
@@ -12,7 +12,7 @@ Ein einfaches Netzwerk besteht aus mindestens zwei Computersystemen, die über e
 
 # Ein lokales Netzwerk mit Internet-Zugang 
 
-![[../../../IMG/IMG_Informatik/lokales_Netzwerk_mit_Internet-Zugang.png]]
+![[../../../IMG/IMG_IT/lokales_Netzwerk_mit_Internet-Zugang.png]]
 _(Bild ohne Print-Server)_
 
 Ein lokales Netzwerk mit Internet-Zugang besteht in der Regel aus einem Switch und einem Router. Der Switch fungiert als Kopplungselement innerhalb des LANs, während der Router den Internet-Zugang ermöglicht und ebenfalls an den Switch angeschlossen ist. Dadurch erhalten alle Teilnehmer im Netzwerk gleichzeitig Zugriff auf das Internet. In kleinen LANs sind Switch und Router oft in einem Gerät kombiniert.
@@ -23,7 +23,7 @@ Ein zusätzlicher Print-Server ermöglicht die gemeinsame Nutzung eines Druckers
 
 # Lokales Funknetzwerk / Wireless Local Area Network (WLAN)
 
-![[../../../IMG/IMG_Informatik/WLAN.png]]
+![[../../../IMG/IMG_IT/WLAN.png]]
 
 Anstelle kabelbasierter Verbindungen kann auch der freie Raum per Funk als Übertragungsstrecke genutzt werden. Ein Wireless LAN (WLAN) ist ein lokales Netzwerk, das einen Wireless Access Point (WAP) als Basisstation und Computersysteme mit eingebauten WLAN-Adaptern (Netzwerkkarten mit Antenne) umfasst. Alle Hosts, die sich in Reichweite der Funksignale befinden, haben Zugang zum Netzwerk. Router und Wireless Access Point sind oft in einem Multifunktionsgerät kombiniert, das als WLAN-Router bezeichnet wird. Diese Geräte werden im Privatbereich und in kleinen Büros eingesetzt.
 

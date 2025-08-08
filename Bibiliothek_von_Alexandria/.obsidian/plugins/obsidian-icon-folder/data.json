@@ -32,14 +32,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "_Informatik/Netzwerktechnik": "LiNetwork",
-  "_Informatik/Datenbanken": "LiDatabase",
-  "_Informatik/Betriebssysteme": "LiComputer",
-  "_Informatik/IT-Sicherheit": "LiUserCheck",
-  "_Informatik/Programmierung": "LiCode",
-  "_Informatik/Serveradministration": "LiServer",
-  "_Informatik/Switchkonfiguration": "LiServerCog",
-  "_Informatik/Virtualisierung": "LiCloud",
   "_Physik/Atomphysik": "LiAtom",
   "_Physik/Astrophysik": "FasUserAstronaut",
   "_Physik/Elektromagnetismus": "LiMagnet",
@@ -47,5 +39,13 @@
   "_Mathe/Analytische_Geometrie": "TiVector",
   "_Mathe/Stochastik": "OcGraph16",
   "_Mathe/Angewante_Mathematik": "TiMath",
-  "_Mathe/Algebra": "TiMathFunction"
+  "_Mathe/Algebra": "TiMathFunction",
+  "_IT/Betriebssysteme": "LiComputer",
+  "_IT/Netzwerktechnik": "LiNetwork",
+  "_IT/Datenbanken": "LiDatabase",
+  "_IT/Programmierung": "LiCode",
+  "_IT/Switchkonfiguration": "LiServerCog",
+  "_IT/Virtualisierung": "LiCloud",
+  "_IT/Serveradministration": "LiServer",
+  "_IT/IT-Sicherheit": "LiUserCheck"
 }

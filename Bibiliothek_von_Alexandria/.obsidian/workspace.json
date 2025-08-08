@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d5edf978a4a9a2",
+        "id": "6aab824a926df6ac",
         "type": "tabs",
         "children": [
           {
-            "id": "113c909ab3cabafa",
+            "id": "f2168d25f4706c5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Informatik/_main.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.5124969482422
+    "width": 320.50499725341797
   },
   "right": {
     "id": "0ee67e9db95a136d",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Informatik/_main.md",
+                "file": "_Physik/Atomphysik/Vertiefung/Quarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quarks"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Informatik/_main.md",
+                "file": "_Physik/Atomphysik/Vertiefung/Quarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quarks"
             }
           },
           {
@@ -116,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Informatik/_main.md"
-              }
+                "file": "_Physik/Atomphysik/Vertiefung/Quarks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quarks"
             }
           },
           {
@@ -134,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -157,56 +172,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "113c909ab3cabafa",
+  "active": "f2168d25f4706c5e",
   "lastOpenFiles": [
-    "Home.md",
-    "_Informatik/_main.md",
-    "_Informatik/CCNA",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/14_OSI-Schichtenmodell.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/22_Twisted-Pair-Kabel.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/25_RJ-45_Stecker.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/10_Internet-Anschluss.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/13_DoD-Schichtenmodell.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/12_Schichtenmodelle.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/3_Organisationen.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/4_Netzwerk_Infrastruktur.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/5_LAN.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/6_WLAN.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/2_Grundbegriffe.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/11_AS.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/9_Internet.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/7_WPAN.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/1_Grundlagen.md",
-    "IMG/IMG_Informatik/ftp_cable.png",
-    "IMG/IMG_Informatik/udp_cable.png",
-    "Time Tracker.md",
-    "IMG/IMG_Informatik/stp_cable.png",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/21_Netzwerk-Kabel.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/20_Leitungen_und_Kabel.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/19_Strukturierte_Verkabelung.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/18_Lokale_Vernetzung.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/16_RFC.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/8_WAN.md",
-    "_Informatik/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/17_Netzwerk_Topologie.md",
-    "IMG/IMG_Informatik/Geflecht-Topologie.png",
+    "_IT/Serveradministration/Sicherheit_und_Netzdesign/Untitled.md",
+    "_IT/Serveradministration/Sicherheit_und_Netzdesign/Welche Systeme stellt man in eine DMZ.md",
+    "_IT/Serveradministration/Sicherheit_und_Netzdesign/Was ist eine DMZ.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/VLANs in virtuellen Umgebungen.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Trennung von Management, VM-Traffic, vMotion usw.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein vSwitch und ein DvSwitch.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Wie bindet man Speicher an Hosts an.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein SAN Switch.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Protokolle iSCSI und Fibre Channel.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Unterschied SAN, NAS und DAS.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Datastore.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vMotion.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Wie erstellt man eine VM.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ESXi.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Hypervisor.md",
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense/3 Network Hardening Services and Protocol.md",
+    "_IT/Serveradministration/Sicherheit_und_Netzdesign",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare",
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense/2 Application Security.md",
+    "IMG/IMG_IT/integrity_check.png",
+    "Pasted image 20250708143301.png",
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense/1 Physical Security.md",
+    "_IT/Cisco_Network_Defense/1_understanding_defense/3 Security Policies, Regulations, and Standards.md",
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense",
+    "_IT/Cisco_Network_Defense/1_understanding_defense/1 Defense-in-depth.md",
+    "_IT/Cisco_Network_Defense/1_understanding_defense/2 Cybersecurity Operations Management.md",
+    "IMG/IMG_IT/Security_Artichoke.png",
+    "IMG/IMG_IT/Security_Onion.png",
+    "IMG/IMG_IT",
+    "_Physik/Atomphysik/Vertiefung/Quarks.md",
+    "_IT/Cisco_Network_Defense/1_understanding_defense",
+    "_IT/Cisco_Network_Defense/x.md",
+    "_IT/Cisco_Network_Defense",
+    "_Physik/Atomphysik/Vertiefung/Orbitale.md",
+    "_Physik/Atomphysik/Vertiefung/Gluonen.md",
+    "_IT/CCNA",
+    "IMG/IMG_IT/ftp_cable.png",
+    "IMG/IMG_IT/udp_cable.png",
+    "IMG/IMG_IT/stp_cable.png",
+    "IMG/IMG_IT/Geflecht-Topologie.png",
     "Pasted image 20240715144507.png",
-    "IMG/IMG_Informatik/Vollvermaschte-Topologie.png",
-    "IMG/IMG_Informatik/Mesh-Topologie.png",
-    "IMG/IMG_Informatik/Baum-Topologie.png",
-    "IMG/IMG_Informatik/Stern-Topologie.png",
-    "IMG/IMG_Informatik/Ring-Topologie.png",
-    "IMG/IMG_Informatik",
-    "4_Anwendungen_und_Dienste",
-    "Anwendungen_und_Dienste",
-    "_IT/Netzwerktechnik/1_Grundlagen_Netzwerktechnik/Untitled",
-    "_Informatik/Netzwerktechnik/7_RaspberryPi_Projekte",
-    "_Informatik/Netzwerktechnik/6_Netzwerk_Hacking",
-    "_Informatik/Netzwerktechnik/5_Netzwerksicherheit",
-    "_Informatik/Netzwerktechnik/4_Anwendungen_und_Dienste",
-    "_Informatik/Netzwerktechnik/3_TCP_IP_und_Protokolle"
+    "IMG/IMG_IT/Vollvermaschte-Topologie.png",
+    "IMG/IMG_IT",
+    "4_Anwendungen_und_Dienste"
   ]
 }

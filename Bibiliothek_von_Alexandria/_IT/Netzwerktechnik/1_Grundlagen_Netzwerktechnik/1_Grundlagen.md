@@ -31,13 +31,13 @@ Der Bedarf, Daten zwischen mehreren Computern auszutauschen und Ressourcen zu te
 
 Bestimmte Netzwerktechniken unterliegen Beschränkungen, die insbesondere die Reichweite und geografische Ausdehnung des Netzwerks begrenzt. Hierbei unterscheidet man zwischen verschiedenen Netzwerk-Dimensionen für die es unterschiedliche Netzwerktechniken gibt.
 
-- [[7_WPAN.md|PAN]] - Personal Area Network, z. B. Bluetooth
-- [[5_LAN.md|LAN]] - Local Area Network, z. B. Ethernet und WLAN
+- [[7_WPAN|PAN]] - Personal Area Network, z. B. Bluetooth
+- [[5_LAN|LAN]] - Local Area Network, z. B. Ethernet und WLAN
 - [[MAN]] - Metropolitan Area Network: regionales Netz
-- [[8_WAN.md|WAN]] - Wide Area Network: öffentliches Netz, z. B. DSL und Mobilfunk
+- [[8_WAN|WAN]] - Wide Area Network: öffentliches Netz, z. B. DSL und Mobilfunk
 - [[GAN]] - Global Area Network: globales Netz, z. B. das Internet
 
-![[../../../IMG/IMG_Informatik/Netzwerk_Dimensionen.png]]
+![[../../../IMG/IMG_IT/Netzwerk_Dimensionen.png]]
 
 Normalerweise findet ein Austausch zwischen verschiedenen Netzwerken statt. Das bedeutet, dass ein Teilnehmer eines LANs oft auch Zugang zu einem WAN oder einem GAN hat. Eine exakte Abgrenzung zwischen diesen Netzwerkdimensionen ist nicht immer möglich, weshalb häufig eine grobe Einteilung vorgenommen wird. Üblicherweise unterscheidet man zwischen LAN und WAN, wobei es Techniken und Protokolle gibt, die in beiden Netzwerktypen eingesetzt werden können.
 
@@ -54,7 +54,7 @@ In der Netzwerktechnik regeln Protokolle die Kommunikation zwischen Systemen. Ne
 
 Typischerweise wird die Kommunikation nicht von einem einzigen Protokoll gesteuert, sondern von mehreren Protokollen, die spezifische Aufgaben übernehmen. Diese Protokolle werden nach einem Schichtenmodell organisiert, wobei jedes Protokoll einer bestimmten Schicht zugeordnet ist.
 
-[[31_Protokolle.md|Protokolle]]
+[[31_Protokolle|Protokolle]]
 
 ---
 
@@ -63,9 +63,9 @@ Da ein Netzwerk möglichst universell sein soll, sodass es von mehreren Teilnehm
 
 Es existieren verschiedene Schichtenmodelle, die sich in der Anzahl der Schichten und der damit verbundenen Verdichtung der Aufgaben unterscheiden.
 
-[[12_Schichtenmodelle.md|Schichtenmodelle]]
-[[13_DoD-Schichtenmodell.md|DoD-Schichtenmodell]]
-[[14_OSI-Schichtenmodell.md|OSI-Schichtenmodell]]
+[[12_Schichtenmodelle|Schichtenmodelle]]
+[[13_DoD-Schichtenmodell|DoD-Schichtenmodell]]
+[[14_OSI-Schichtenmodell|OSI-Schichtenmodell]]
 
 ---
 
@@ -128,7 +128,7 @@ Der Aufbau von Netzwerk-Adressen ist meistens hierarchisch. Das bedeutet, für d
 
 # Ein einfaches Netzwerk: Peer-to-Peer
 
-![[../../../IMG/IMG_Informatik/P2P_Netzwerk.png]]
+![[../../../IMG/IMG_IT/P2P_Netzwerk.png]]
 
 In einem Peer-to-Peer-Netzwerk sind alle angeschlossenen Computer gleichberechtigt und stellen einander ihre Ressourcen zur Verfügung. Solche Netzwerke eignen sich für bis zu 10 Stationen, da es bei mehr Teilnehmern schnell unübersichtlich wird. Diese Netzwerke sind relativ schnell und kostengünstig aufzubauen, wobei die Teilnehmer möglichst nah beieinander stehen sollten.
 

@@ -80,10 +80,10 @@ Cat. 8.2 bietet volle Abwärtskompatibilität zu CAT7/7A und darunter, während 
 
 # Twisted-Pair-Kabel: STP, UTP und FTP 
 ### STP - Shielded-Twisted-Pair-Cable
-![[../../../IMG/IMG_Informatik/stp_cable.png]]
+![[../../../IMG/IMG_IT/stp_cable.png]]
 
 ### UDP - Unshielded-Dual-Pair-Cable
-![[../../../IMG/IMG_Informatik/udp_cable.png]]
+![[../../../IMG/IMG_IT/udp_cable.png]]
 
 ### FTP - Foiled-Twisted-Pair-Cable
-![[../../../IMG/IMG_Informatik/ftp_cable.png]]
+![[../../../IMG/IMG_IT/ftp_cable.png]]
