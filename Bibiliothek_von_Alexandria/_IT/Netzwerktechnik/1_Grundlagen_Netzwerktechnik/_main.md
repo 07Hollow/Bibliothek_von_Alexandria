@@ -120,4 +120,4 @@ Dieses Dokument soll als Einstieg und Referenz dienen, um das Wissen in der Netz
 
 ---
 
-![[© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten..md]]
+![[../../../Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]

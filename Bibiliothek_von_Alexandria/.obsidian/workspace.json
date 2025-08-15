@@ -11,10 +11,14 @@
             "id": "f2168d25f4706c5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Was ist vCenter"
             }
           }
         ]
@@ -177,6 +181,19 @@
   },
   "active": "f2168d25f4706c5e",
   "lastOpenFiles": [
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vMotion.md",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Protokolle iSCSI und Fibre Channel.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Wie erstellt man eine VM.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ESXi.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Hypervisor.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Datastore.md",
+    "IMG/IMG_IT/zweiter_IP-Stack_vMotion.png",
+    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Unterschied SAN, NAS und DAS.md",
+    "Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten..md",
+    "_Physik/Atomphysik/Vertiefung/Quarks.md",
+    "_Physik/Atomphysik/Vertiefung/Gluonen.md",
+    "_Physik/Atomphysik/Vertiefung/Orbitale.md",
     "_IT/Serveradministration/Sicherheit_und_Netzdesign/Untitled.md",
     "_IT/Serveradministration/Sicherheit_und_Netzdesign/Welche Systeme stellt man in eine DMZ.md",
     "_IT/Serveradministration/Sicherheit_und_Netzdesign/Was ist eine DMZ.md",
@@ -185,14 +202,6 @@
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein vSwitch und ein DvSwitch.md",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Wie bindet man Speicher an Hosts an.md",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein SAN Switch.md",
-    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Protokolle iSCSI und Fibre Channel.md",
-    "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Unterschied SAN, NAS und DAS.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Datastore.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vMotion.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Wie erstellt man eine VM.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ESXi.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Hypervisor.md",
     "_IT/Cisco_Network_Defense/2_system_and_network_defense/3 Network Hardening Services and Protocol.md",
     "_IT/Serveradministration/Sicherheit_und_Netzdesign",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung",
@@ -204,23 +213,17 @@
     "_IT/Cisco_Network_Defense/1_understanding_defense/3 Security Policies, Regulations, and Standards.md",
     "_IT/Cisco_Network_Defense/2_system_and_network_defense",
     "_IT/Cisco_Network_Defense/1_understanding_defense/1 Defense-in-depth.md",
-    "_IT/Cisco_Network_Defense/1_understanding_defense/2 Cybersecurity Operations Management.md",
     "IMG/IMG_IT/Security_Artichoke.png",
     "IMG/IMG_IT/Security_Onion.png",
     "IMG/IMG_IT",
-    "_Physik/Atomphysik/Vertiefung/Quarks.md",
     "_IT/Cisco_Network_Defense/1_understanding_defense",
-    "_IT/Cisco_Network_Defense/x.md",
     "_IT/Cisco_Network_Defense",
-    "_Physik/Atomphysik/Vertiefung/Orbitale.md",
-    "_Physik/Atomphysik/Vertiefung/Gluonen.md",
     "_IT/CCNA",
     "IMG/IMG_IT/ftp_cable.png",
     "IMG/IMG_IT/udp_cable.png",
     "IMG/IMG_IT/stp_cable.png",
     "IMG/IMG_IT/Geflecht-Topologie.png",
     "Pasted image 20240715144507.png",
-    "IMG/IMG_IT/Vollvermaschte-Topologie.png",
     "IMG/IMG_IT",
     "4_Anwendungen_und_Dienste"
   ]

@@ -18,4 +18,4 @@ Es gibt verschiedene Quellen für RFCs, jedoch sind nicht alle vollständig und 
 
 ---
 
-![[../../../Template/© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]
+![[../../../Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]

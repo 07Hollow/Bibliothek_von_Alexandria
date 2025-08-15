@@ -31,5 +31,5 @@ Vielen Dank, dass du die Bibliothek von Alexandria besuchst und Teil unserer Gem
 
 ---
 
-![[© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten..md]]
+![[Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]
 

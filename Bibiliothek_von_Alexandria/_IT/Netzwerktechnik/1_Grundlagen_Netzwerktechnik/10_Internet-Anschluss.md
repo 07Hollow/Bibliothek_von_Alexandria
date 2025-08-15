@@ -96,4 +96,4 @@ Der Internet-Zugang mit Glasfaser (Lichtwellenleiter, LWL) bietet extrem hohe Ü
 
 ---
 
-![[../../../Template/© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]
+![[../../../Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]

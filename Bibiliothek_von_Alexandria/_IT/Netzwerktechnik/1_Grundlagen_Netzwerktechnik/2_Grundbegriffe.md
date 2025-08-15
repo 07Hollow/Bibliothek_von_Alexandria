@@ -260,4 +260,4 @@ Der Begriff "Kabel" ist kurz und daher einfacher auszusprechen, weshalb er in vi
 
 ---
 
-![[© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten..md]]
+![[../../../Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]

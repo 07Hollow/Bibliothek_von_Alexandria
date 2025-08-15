@@ -72,4 +72,4 @@ Ein WLAN kann zwar die Reichweite eines lokalen Netzwerks erweitern, aber es ist
 
 ---
 
-![[../../../Template/© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2024 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]
+![[../../../Template/© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.|© 2025 Bibliothek von Alexandria. Alle Rechte vorbehalten.]]
