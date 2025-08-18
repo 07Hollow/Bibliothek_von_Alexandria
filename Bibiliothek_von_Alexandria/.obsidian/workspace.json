@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
+                "file": "_IT/Cisco_Network_Defense/2_system_and_network_defense/3 Network Hardening Services and Protocol.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Was ist vCenter"
+              "title": "3 Network Hardening Services and Protocol"
             }
           }
         ]
@@ -181,10 +181,13 @@
   },
   "active": "f2168d25f4706c5e",
   "lastOpenFiles": [
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense/2 Application Security.md",
+    "_IT/Cisco_Network_Defense/2_system_and_network_defense/3 Network Hardening Services and Protocol.md",
+    "_IT/Cisco_Network_Defense/1_understanding_defense/1 Defense-in-depth.md",
+    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vMotion.md",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Protokolle iSCSI und Fibre Channel.md",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare/Wie erstellt man eine VM.md",
-    "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist vCenter.md",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ESXi.md",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Hypervisor.md",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare/Was ist ein Datastore.md",
@@ -202,17 +205,14 @@
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein vSwitch und ein DvSwitch.md",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Wie bindet man Speicher an Hosts an.md",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung/Was ist ein SAN Switch.md",
-    "_IT/Cisco_Network_Defense/2_system_and_network_defense/3 Network Hardening Services and Protocol.md",
     "_IT/Serveradministration/Sicherheit_und_Netzdesign",
     "_IT/Serveradministration/Storage_und_Netzwerke_in_der_Virtualisierung",
     "_IT/Serveradministration/Virtualisierung_mit_VMWare",
-    "_IT/Cisco_Network_Defense/2_system_and_network_defense/2 Application Security.md",
     "IMG/IMG_IT/integrity_check.png",
     "Pasted image 20250708143301.png",
     "_IT/Cisco_Network_Defense/2_system_and_network_defense/1 Physical Security.md",
     "_IT/Cisco_Network_Defense/1_understanding_defense/3 Security Policies, Regulations, and Standards.md",
     "_IT/Cisco_Network_Defense/2_system_and_network_defense",
-    "_IT/Cisco_Network_Defense/1_understanding_defense/1 Defense-in-depth.md",
     "IMG/IMG_IT/Security_Artichoke.png",
     "IMG/IMG_IT/Security_Onion.png",
     "IMG/IMG_IT",
